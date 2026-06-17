@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fake Product Detection</title>
+</head>
+<body>
+
+  <h2>Blockchain Product Authentication</h2>
+
+  <!-- CONNECT METAMASK BUTTON -->
+  <button onclick="connectWallet()">Connect MetaMask</button>
+
+  <hr>
+
+  <!-- ADD PRODUCT -->
+  <h3>Add Product (Manufacturer)</h3>
+  <input type="text" id="addId" placeholder="Product ID (P001)">
+  <input type="text" id="addName" placeholder="Product Name">
+  <br><br>
+  <button onclick="addProduct()">Add Product</button>
+
+  <hr>
+
+  <!-- VERIFY PRODUCT -->
+  <h3>Verify Product (Consumer)</h3>
+  <input type="text" id="verifyId" placeholder="Enter Product ID">
+  <br><br>
+  <button onclick="verifyProduct()">Verify Product</button>
+
+  <h3 id="result"></h3>
+
+  <!-- ethers library -->
+  <script src="https://cdn.jsdelivr.net/npm/ethers@6.10.0/dist/ethers.umd.min.js"></script>
+
+  <!-- your app logic -->
+  <script src="app.js"></script>
+
+</body>
+</html>

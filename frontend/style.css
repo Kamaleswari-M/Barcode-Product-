@@ -1,0 +1,122 @@
+/* Background */
+body {
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Main card */
+.container {
+  width: 100%;
+  max-width: 420px;
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 14px;
+  box-shadow: 0 15px 30px rgba(0,0,0,0.2);
+  animation: slideUp 0.6s ease;
+}
+
+/* Animation */
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Headings */
+h2 {
+  text-align: center;
+  color: #2d2d2d;
+  margin-bottom: 20px;
+}
+
+h3 {
+  color: #444;
+  margin-bottom: 10px;
+}
+
+/* Inputs */
+input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 14px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  transition: border 0.3s;
+}
+
+input:focus {
+  outline: none;
+  border-color: #667eea;
+}
+
+/* Buttons */
+button {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  font-size: 15px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+}
+
+/* Role buttons */
+.role-btn {
+  background: linear-gradient(135deg, #43cea2, #185a9d);
+  color: white;
+  margin-bottom: 15px;
+}
+
+/* MetaMask button */
+.wallet-btn {
+  background: linear-gradient(135deg, #f7971e, #ffd200);
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Action buttons */
+.action-btn {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: white;
+}
+
+/* Divider */
+hr {
+  margin: 25px 0;
+  border: none;
+  border-top: 1px solid #eee;
+}
+
+/* Result box */
+#result {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Genuine / Fake colors */
+.genuine {
+  color: #27ae60;
+}
+
+.fake {
+  color: #e74c3c;
+}

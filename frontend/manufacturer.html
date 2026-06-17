@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Manufacturer Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h2>Manufacturer Dashboard</h2>
+
+    <button class="wallet-btn" onclick="connectWallet()">Connect MetaMask</button>
+
+    <h3>Add Product</h3>
+    <input type="text" id="addId" placeholder="Product ID (P001)">
+    <input type="text" id="addName" placeholder="Product Name">
+    <button onclick="addProduct()">Add Product</button>
+    <div id="qrcode" style="margin-top:20px; text-align:center;"></div>
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/ethers@6.10.0/dist/ethers.umd.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/qrcodejs/qrcode.min.js"></script>
+
+  <script src="app.js"></script>
+
+</body>
+</html>
