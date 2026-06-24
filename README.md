@@ -59,6 +59,15 @@ Account = your imported Hardhat account
 ## Manufacturer
 <img width="1535" height="770" alt="Screenshot 2026-06-24 225028" src="https://github.com/user-attachments/assets/f15bf5c7-af49-49ab-8ad9-ed8fd0cea1c1" />
 <img width="1528" height="772" alt="Screenshot 2026-06-24 225148" src="https://github.com/user-attachments/assets/131e0fbf-bf00-415c-92d8-3041f1743b10" />
+<img width="1020" height="652" alt="Screenshot 2026-06-24 225305" src="https://github.com/user-attachments/assets/d3b4b5d7-63c7-48eb-850c-af0a49643f38" />
+
+## Consumer
+By typing the product code
+<img width="1533" height="769" alt="Screenshot 2026-06-24 225401" src="https://github.com/user-attachments/assets/d14bce94-36b2-4e60-a338-052dd3c080bc" />4
+By scanning the QR code
+<img width="763" height="770" alt="Screenshot 2026-06-24 231059" src="https://github.com/user-attachments/assets/0cdb32aa-474e-4b6b-90dd-7fb51267389b" />
+
+
 
 
 
