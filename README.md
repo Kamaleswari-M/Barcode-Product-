@@ -16,11 +16,11 @@ QR Code Library
 ##Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Kamaleswari-M/Barcode-Product.git
+  ```bash
+  git clone https://github.com/Kamaleswari-M/Barcode-Product.git
 
-   cd Fake_Products
-   ```
+  cd Fake_Products
+  ```
 
 2. Open a terminal
   ```bash
