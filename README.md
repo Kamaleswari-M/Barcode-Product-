@@ -22,13 +22,13 @@ QR Code Library
    cd Fake_Products
    ```
 
-2.Open a terminal
+2. Open a terminal
   ```bash
   npx hardhat node
   ```
 Keep this terminal open
 
-3.Open a new terminal
+3. Open a new terminal
   ```bash
   npx hardhat compile
 
