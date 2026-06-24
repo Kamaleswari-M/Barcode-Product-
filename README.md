@@ -56,6 +56,10 @@ Account = your imported Hardhat account
 
 <img width="1536" height="770" alt="Screenshot 2026-06-16 220417" src="https://github.com/user-attachments/assets/b4fff43e-7336-448e-bf35-7363f961696b" />
 
+## Manufacturer
+<img width="1535" height="770" alt="Screenshot 2026-06-24 225028" src="https://github.com/user-attachments/assets/f15bf5c7-af49-49ab-8ad9-ed8fd0cea1c1" />
+<img width="1528" height="772" alt="Screenshot 2026-06-24 225148" src="https://github.com/user-attachments/assets/131e0fbf-bf00-415c-92d8-3041f1743b10" />
+
 
 
 
