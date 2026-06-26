@@ -13,7 +13,7 @@ When a consumer scans the QR code or enters the product ID, the system retrieves
 - HTML, CSS, JavaScript
 - QR Code Library
 
-##Installation
+## Installation
 
 1. Clone the repository:
   ```bash
