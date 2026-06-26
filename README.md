@@ -6,12 +6,12 @@ When a consumer scans the QR code or enters the product ID, the system retrieves
 
 ## Technology Stack
 
-Solidity
-Hardhat
-Ethers.js
-MetaMask
-HTML, CSS, JavaScript
-QR Code Library
+--Solidity
+--Hardhat
+--Ethers.js
+--MetaMask
+--HTML, CSS, JavaScript
+--QR Code Library
 
 ##Installation
 
